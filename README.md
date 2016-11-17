@@ -1,4 +1,4 @@
-# Hip-Hop-aholic
+# Hip-Hop-aholik
 
 This is an ios app written in Swift. The name of the app is Hip-Hop-aholic. 
 
